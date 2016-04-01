@@ -1,0 +1,26 @@
+{
+  "name": "randpassgen",
+  "version": "1.0.0",
+  "description": "A node module to generate random password",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tanimkg/randpassgen.git"
+  },
+  "keywords": [
+    "password",
+    "random",
+    "generator",
+    "password",
+    "generator"
+  ],
+  "author": "Touhidur Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanimkg/randpassgen/issues"
+  },
+  "homepage": "https://github.com/tanimkg/randpassgen#readme"
+}
