@@ -15,12 +15,17 @@ $ generate(length[int], uppercase[true|false], symbol[true|false]);
 ```
 
 ### Example
-Generate a 8 character random string consisting lowercase, uppercase and symbols
+Generate a 8 character random string consisting lowercase, uppercase, numbers and symbols
 ```
 var pass = require('randpassgen').generate(8);
 ```
 
-Generate a 8 character random string consisting only lowercase and symbols
+Generate a 8 character random string consisting only lowercase, numbers and symbols
 ```
 var pass = require('randpassgen').generate(8, false, true);
+```
+
+Generate a 8 character random string consisting only lowercase and numbers
+```
+var pass = require('randpassgen').generate(8, false, false);
 ```
