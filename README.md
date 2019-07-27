@@ -1,3 +1,6 @@
+# [DEPRECATED]
+Please use improved [randpassgen2](https://www.npmjs.com/package/randpassgen2) package instead.
+
 # randpassgen
 
 A simple node module to generate random string of alphanumeric characters and/or symbols. 
